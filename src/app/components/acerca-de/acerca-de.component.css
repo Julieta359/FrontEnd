@@ -1,0 +1,28 @@
+div {
+    background-color: black ;
+    text-align: center;
+    color: white;
+}
+.row {
+    padding: 30px;
+    border-color: #A372FD;
+    border-width: 2px;
+    border-style: solid;
+}
+
+/*etiqueta nombre*/
+#nombre {
+    font-weight: bold;
+    margin-top: 20%;
+    margin-left: 10px;
+    font-size: 30px;
+   
+}
+
+/*etiqueta acerca*/
+#acerca {
+    margin-top: 70px;
+    margin-left: 10px;
+    font-size: 25px;
+ 
+}

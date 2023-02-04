@@ -1,0 +1,23 @@
+.row {
+    padding: 40px;
+    border-color: #A372FD;
+    border-width: 2px;
+    border-style: solid;
+}
+div {
+    background-color: black;
+    color: white;
+}
+h2,h3 {
+    display: inline;
+    color: #F583EF;
+
+}
+h2 {
+    font-size: 25px;
+}
+
+h1{
+    font-size: 35px;
+    color: #A372FD;
+}

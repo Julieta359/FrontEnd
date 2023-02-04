@@ -1,0 +1,12 @@
+.row {
+    background-color: black;
+    padding: 20px;
+    border-color: #A372FD;
+    border-width: 2px;
+    border-style: solid;
+}
+h1{
+    font-size: 35px;
+    color: #A372FD;
+    padding: 40px ;
+}
